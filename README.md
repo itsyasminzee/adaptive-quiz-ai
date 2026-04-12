@@ -1,21 +1,12 @@
-Adaptive Quiz AI
+📚 Adaptive Quiz AI
+A simple Streamlit quiz app that lets users take quizzes, get instant feedback, and track their performance.
 
-A simple Streamlit quiz app that lets users take quizzes, get instant feedback, and track how they’re doing. It’s designed to make learning more interactive and easy.
-
-🚀 Features
-Quiz questions with instant scoring
-Simple and clean UI
-Basic adaptive difficulty (if included)
+Live Demo
+https://adaptive-quiz-ai-m8xk4pedr6scqtc6vpte5y.streamlit.app/
 
 🛠️ Built with
 Python
 Streamlit
-
-▶️ Run locally
-git clone https://github.com/itsyasminzee/adaptive-quiz-ai.git
-cd adaptive-quiz-ai
-pip install -r requirements.txt
-streamlit run quizapp.py
 
 👤 Author
 Yasmin Zacarias
