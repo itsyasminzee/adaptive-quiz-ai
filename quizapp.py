@@ -5,6 +5,10 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import PyPDF2
 
+import streamlit as st
+
+st.title("Adaptive Quiz AI")
+
 load_dotenv()
 
 client = OpenAI(
